@@ -1,4 +1,4 @@
-import 'dotenv/config'
+//  import 'dotenv/config'
 import 'core-js/stable'
 import 'regenerator-runtime/runtime'
 import express from 'express'
